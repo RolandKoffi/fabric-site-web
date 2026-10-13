@@ -59,7 +59,7 @@
       var subject = "Nouveau projet — " + name;
       var body = "Nom: " + name + "\nEmail: " + email + "\n\n" + message;
       var mailto =
-        "mailto:contact@fabric-tech.com?subject=" +
+        "mailto:contact@fabric-tech.net?subject=" +
         encodeURIComponent(subject) +
         "&body=" +
         encodeURIComponent(body);
